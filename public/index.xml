@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UCL MedSoc Enterprise &amp; Innovation</title>
+    <link>http://ei.medicalsociety.org.uk/</link>
+    <description>Recent content on UCL MedSoc Enterprise &amp; Innovation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ei.medicalsociety.org.uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TEST 2</title>
+      <link>http://ei.medicalsociety.org.uk/blog/test_2/</link>
+      <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://ei.medicalsociety.org.uk/blog/test_2/</guid>
+      <description>TEST 2</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>http://ei.medicalsociety.org.uk/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ei.medicalsociety.org.uk/about/</guid>
+      <description>As the newest addition to the UCL Medical Society, we aim to get more students excited about entrepreneurship and innovation in medicine by bringing you talks, workshops and hackathons led by medical professionals who have put their ideas into practice.</description>
+    </item>
+    
+  </channel>
+</rss>

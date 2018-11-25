@@ -1,0 +1,9 @@
+baseURL = "http://ei.medicalsociety.org.uk/"
+languageCode = "en-us"
+title = "UCL MedSoc Enterprise & Innovation"
+enableEmoji= "true"
+enableRobotsTXT = "true"
+customCSS = ["css/custom.css"]
+
+[params]
+	date_format = "2018-11-09"
