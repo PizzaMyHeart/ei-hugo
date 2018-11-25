@@ -25,3 +25,5 @@ SectionPagesMenu = "main" # Enable menu system for lazy bloggers
 
 [[menu.main]]
   name = "Events"
+  weight = 2
+  url = "/#events"
