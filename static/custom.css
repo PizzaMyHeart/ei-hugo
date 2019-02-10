@@ -78,3 +78,12 @@ a:hover {
 	color: white;
 	border-radius: 8px;
 }
+
+.section-head {
+	font-size: 4vw;
+}
+
+#drei {
+	width: auto;
+	max-height: 100%;
+}
